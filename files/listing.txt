@@ -1,10 +1,11 @@
+# All of the files
+
 total 8
 drwxr-xr-x@  10 tlberglund  staff   340 Feb  5 10:35 Box Documents
 drwx------+   8 tlberglund  staff   272 Feb 18 20:28 Desktop
 drwx------+  49 tlberglund  staff  1666 Dec 11 06:29 Documents
 drwx------+  44 tlberglund  staff  1496 Feb 18 20:26 Downloads
 drwxr-xr-x    3 tlberglund  staff   102 Jan  1 11:25 Dropbox
-drwxr-xr-x    4 tlberglund  staff   136 Dec  3 22:39 Dropbox-github
 drwxr-xr-x    4 tlberglund  staff   136 Dec  5 22:04 Dropbox-personal
 drwx------@  58 tlberglund  staff  1972 Jan  9 19:47 Library
 drwx------+  29 tlberglund  staff   986 Feb  7 14:55 Movies
